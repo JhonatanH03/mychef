@@ -59,7 +59,7 @@ flutter run
   
 - Recommendations Section: Visually distinct section showcasing suggested items.
   
-#Technologies Used
+# Technologies Used
 
 - Flutter: To build the UI and handle interactions.
   
