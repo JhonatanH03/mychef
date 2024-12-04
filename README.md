@@ -1,4 +1,4 @@
-# Flutter App: Dynamic Category Viewer  
+# Flutter App: MyChef
 
 **Dynamic Category Viewer** is a modern Flutter application designed to showcase categories and recommendations in a visually appealing and interactive layout. The app provides a seamless user experience with a structured design, smooth navigation, and customizable features.  
 
